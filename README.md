@@ -103,7 +103,7 @@ daily_yield['volatility'] = (
   
 ---
 
-## 🏗️ 5. Productionization Concept
+## 🔧 5. Productionization Concept
 
 **Model-to-Contract Architecture:**
 
@@ -127,7 +127,7 @@ daily_yield['volatility'] = (
 
 ---
 
-## 🧩 Key Insights
+##  Key Insights
 
 - **Tail risk management drives sustainable APR** — not just leverage.  
 - **Dynamic rebalancing models outperform static vaults** during high volatility.  
@@ -135,7 +135,7 @@ daily_yield['volatility'] = (
 
 ---
 
-## 🚀 Impact for P2P.org
+##  Impact for P2P.org
 
 Integrating this framework into **P2P’s restaking or stablecoin yield products** could:
 
@@ -146,7 +146,7 @@ Integrating this framework into **P2P’s restaking or stablecoin yield products
 
 ---
 
-## 🧰 Tools & Techniques
+##  Tools & Techniques
 
 | Category | Tools / Libraries |
 |-----------|-------------------|
