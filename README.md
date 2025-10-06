@@ -47,7 +47,7 @@ daily_yield['volatility'] = (
 
 **Goal:** Estimate yield distributions under varying volatility and market downturns.
 
-**Method:** Ran **10,000 simulations per protocol** using:
+**Method:** Ran **1000 simulations per protocol** using:
 - Historical APY mean  
 - Volatility  
 - ETH/SOL market correlation  
